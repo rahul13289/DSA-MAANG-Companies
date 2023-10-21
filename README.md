@@ -6,7 +6,7 @@ A data strucutre is a systematic way of organizing and acessing data. An algorit
 
 Contents:
 
-![image](https://github.com/rahul13289/DSA-in-Python/assets/97829880/f1b6ef36-0259-4ac2-8b54-a870d782e2bb)
+![image](https://github.com/rahul13289/DSA/assets/97829880/fd2d19e4-20ae-47f5-97da-9cc8f9f9c148)
 
 1. Recursion
 2. Array-based sequence
