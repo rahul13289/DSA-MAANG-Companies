@@ -1,12 +1,10 @@
 # Data Structure and Algorithms
 
-![image](https://github.com/rahul13289/DSA-in-Python/assets/97829880/984f5773-ee05-415b-abda-12ff6d055a4b)
+![image](https://github.com/rahul13289/DSA/assets/97829880/52d4448f-90b2-49ec-9d04-dae10e478186)
 
 A data strucutre is a systematic way of organizing and acessing data. An algorithm is a step-by-step procedure for perfomring some task in a finite amount of time. These concepts are central to computing but to be able to classify some data structures and algorithms as 'good', we must have precise ways of analyzing them.
 
 Contents:
-
-![image](https://github.com/rahul13289/DSA/assets/97829880/fd2d19e4-20ae-47f5-97da-9cc8f9f9c148)
 
 1. Recursion
 2. Array-based sequence
