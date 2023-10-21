@@ -1,4 +1,4 @@
-# Data strucutre and algorithms in python
+# Data Structure and Algorithms
 
 ![image](https://github.com/rahul13289/DSA-in-Python/assets/97829880/984f5773-ee05-415b-abda-12ff6d055a4b)
 
