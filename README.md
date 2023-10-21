@@ -1,4 +1,4 @@
-# Data Structure and Algorithms
+# Data Structure and Algorithms with C++, Java & Python
 
 ![image](https://github.com/rahul13289/DSA/assets/97829880/52d4448f-90b2-49ec-9d04-dae10e478186)
 
